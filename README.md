@@ -13,7 +13,7 @@ morse_code = libmorse.morsify(text)
 # Demorse Example:
 ```
 import libmorse
-code = "..."
+code = ". -..- .- -- .--. .-.. ."
 text_from_morse_code = libmorse.demorse(code)
 ```
 
