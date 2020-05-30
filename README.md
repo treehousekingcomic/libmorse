@@ -15,11 +15,6 @@ python3 pip install libmorse
 py -3 pip install libmorse
 ``` 
 | [Original GitHub Repo](https://github.com/shahprog/libmorse)
-- 2) Or after cloning:
-```
-git clone https://github.com/treehousekingcomic/libmorse
-```
-You'll get this repo: libmorse.py + this README.md
 
 # Morsify Example:
 ```
