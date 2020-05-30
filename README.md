@@ -4,6 +4,23 @@ Available Methods
 - morsify
 - demorse
 
+# Instalation
+
+- 1) Use pip: 
+```
+# Linux/macOS
+python3 pip install libmorse
+
+# Windows
+py -3 pip install libmorse
+``` 
+| [Original GitHub Repo](https://github.com/shahprog/libmorse)
+- 2) Or after cloning:
+```
+git clone https://github.com/treehousekingcomic/libmorse
+```
+You'll get this repo with libmorse
+
 # Morsify Example:
 ```
 import libmorse 
