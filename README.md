@@ -21,6 +21,7 @@ text_from_morse_code = libmorse.demorse(code)
 For mordify()
 - NoTextGiven (libmorse.NoTextGiven) | Paremeter text not passed
 - EmptyStringGiven (libmorse.EmptyStringGiven) | Empty text string passed
+
 For demorse()
 - NoCodeGiven (libmorse.NoCodeGiven) | Paremeter code not passed
 - EmptyCodeGiven (libmorse.EmptyCodeGiven) | Empty code string passed
