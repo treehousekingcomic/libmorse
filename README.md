@@ -19,7 +19,7 @@ py -3 pip install libmorse
 ```
 git clone https://github.com/treehousekingcomic/libmorse
 ```
-You'll get this repo with libmorse
+You'll get this repo: libmorse.py + ths README.md
 
 # Morsify Example:
 ```
